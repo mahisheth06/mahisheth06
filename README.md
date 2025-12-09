@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**mahisheth06/mahisheth06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahi, a growing backend Python developer, based in the USA. 
 
-Here are some ideas to get you started:
+I am currently focusing on strengthing my foundational skills in **Python programming** and **Data Structures & Algorithms**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My core tech stack & tools currently includes:
+
+**Languages:** Python (Growing Knowledge), HTML, CSS  
+**Frameworks:** FastAPI (Growing Knowledge), Bootstrap  
+**Concepts:** Data Structures & Algorithms (Growing Knowledge), Version Control (Git/GitHub)
+
+I am actively looking for **Summer 2026 Internships** where I can apply my Python and FastAPI skills!
+
+Connect with me : 
+
+**LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/mahisheth06/)
