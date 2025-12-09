@@ -14,7 +14,7 @@ I am actively looking for **Summer 2026 Internships** where I can apply my Pytho
 
 🌐 Connect with me:
 <p align="center">
-  <a href="https://docs.google.com/document/d/1iodHYdQlR2Mm_Xs0JJ-tOvZcQgCDJOS5/edit?usp=sharing" target="_blank">
+  <a href="https://docs.google.com/document/d/1iodHYdQlR2Mm_Xs0JJ-tOvZcQgCDJOS5/edit?usp=sharing&ouid=101078247585342748779&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View_My_Resume-FastAPI_Blue?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
 </p>
