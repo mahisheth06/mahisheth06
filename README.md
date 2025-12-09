@@ -12,6 +12,11 @@ My core tech stack & tools currently includes:
 
 I am actively looking for **Summer 2026 Internships** where I can apply my Python and FastAPI skills!
 
-Connect with me : 
+🌐 Connect with me:
+<p align="center">
+  <a href="https://docs.google.com/document/d/1iodHYdQlR2Mm_Xs0JJ-tOvZcQgCDJOS5/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View_My_Resume-FastAPI_Blue?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
+</p>
 
 **LinkedIn:** [My Linkedin Profile](https://www.linkedin.com/in/mahisheth06/)
