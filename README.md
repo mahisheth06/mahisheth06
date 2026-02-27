@@ -10,7 +10,7 @@ My core tech stack & tools currently includes:
 **Frameworks:** FastAPI (Growing Knowledge), Bootstrap  
 **Concepts:** Data Structures & Algorithms (Growing Knowledge), Version Control (Git/GitHub)
 
-I am actively looking for **Summer 2026 Internships** where I can apply my Python and FastAPI skills!
+I am actively looking for **Fall 2026 Internships** where I can apply my Python and FastAPI skills!
 
 🌐 Connect with me:
 <p align="center">
