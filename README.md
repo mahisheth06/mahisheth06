@@ -3,12 +3,15 @@
 I'm Mahi, a growing backend Python developer, based in the USA. 
 
 I am currently focusing on strengthing my foundational skills in **Python programming** and **Data Structures & Algorithms**. 
+My current project is building a personal portfolio website using HTML, CSS, and incorporating Javascript for a dynamic project filtering system that allows users to sort work by category for an enhanced browsing experience
 
 My core tech stack & tools currently includes:
 
-**Languages:** Python (Growing Knowledge), HTML, CSS  
+**Languages:** Python, HTML, CSS, Javascript, C++ 
 **Frameworks:** FastAPI (Growing Knowledge), Bootstrap  
 **Concepts:** Data Structures & Algorithms (Growing Knowledge), Version Control (Git/GitHub)
+
+
 
 I am actively looking for **Fall 2026 Internships** where I can apply my Python and FastAPI skills!
 
