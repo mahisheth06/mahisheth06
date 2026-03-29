@@ -7,9 +7,10 @@ My current project is building a personal portfolio website using HTML, CSS, and
 
 My core tech stack & tools currently includes:
 
-**Languages:** Python, HTML, CSS, Javascript, C++ 
-**Frameworks:** FastAPI (Growing Knowledge), Bootstrap  
-**Concepts:** Data Structures & Algorithms (Growing Knowledge), Version Control (Git/GitHub)
+**Languages:** Python, HTML5, CSS3, JavaScript, SQL (developing), C++ (developing)
+**Frameworks & Libraries:** Bootstrap, REST APIs, GitHub API
+**Developer Tools:** Git, GitHub, GitHub Copilot, VS Code, Figma, Command Line, Linux, GitHub Pages, Codespaces  
+
 
 
 
