@@ -9,12 +9,12 @@ My core tech stack & tools currently includes:
 
 **Languages:** Python, HTML5, CSS3, JavaScript, SQL (developing), C++ (developing) <br>
 **Frameworks & Libraries:** Bootstrap, REST APIs, GitHub API <br>
-**Developer Tools:** Git, GitHub, GitHub Copilot, VS Code, Figma, Command Line, Linux, GitHub Pages, Codespaces  
+**Developer Tools:** Git, GitHub, GitHub Copilot, VS Code, Figma, Command Line, GitHub Pages, Codespaces  
 
 
 
 
-I am actively looking for **Fall 2026 Internships** where I can apply my Python and FastAPI skills!
+I am actively looking for **Fall 2026 Internships**!
 
 🌐 Connect with me:
 <p align="center">
