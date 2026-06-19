@@ -82,27 +82,11 @@ React + FastAPI app that fetches CMS nursing home data by CCN and exports a bran
 Multi-page portfolio with a live GitHub analytics dashboard — commit activity, language breakdowns, and a filterable project grid, all pulling from the GitHub REST API in real time. Yes, the pink is intentional.
 `HTML` `CSS` `JavaScript` `GitHub API`
 
-### 🤖 Autonomous Material Sorting Robot
-Programmed a LEGO Mindstorms EV3 robot in LabVIEW to navigate a closed-loop path, classify shredded materials by weight, and route bins autonomously — 90% accuracy target. Led all project documentation.
-`LabVIEW` `EV3` `4-sensor array`
-
 ### ☀️ Bright Box — Portable Solar Charger
 Co-designed a solar-powered charging device targeting electricity shortages in Dhaka, Bangladesh. Built a functional breadboard prototype at ~$23–28/unit. Aligned with UN SDG 7.
 `Hardware Prototyping` `Impact Design` `Project Management`
 
-
 ---
-
-## beyond the code
-
-when i'm not pushing commits:
-
-💃 choreographing & dancing &nbsp;|&nbsp; ✍️ writing novels &nbsp;|&nbsp; 📚 reading &nbsp;|&nbsp; 🈶 learning Mandarin (targeting HSK 1)
-
-i've emceed Bollywood cultural events for 1,000+ people, written published feature journalism, and co-led engineering events for 200+ students at UC. i think those experiences make me a better engineer.
-
----
-
 <div align="center">
 
 *open to fall 2026 co-ops & internships — let's build something real* 🌸
