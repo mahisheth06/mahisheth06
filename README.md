@@ -3,7 +3,7 @@
 
 # Hi, i'm Mahi 🌸
 
-**CS @ University of Cincinnati · AI Engineering Extern @ Pfizer · Class of 2030**
+**CS @ University of Cincinnati · AI Engineering Extern for Pfizer · Class of 2030**
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://mahisheth06.github.io/personalportfolio)
