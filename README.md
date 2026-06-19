@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hi, i'm Mahi 🌸
+# hi, i'm mahi 🌸
 
 **CS @ University of Cincinnati · AI Engineering Extern for Pfizer · Class of 2030**
 
