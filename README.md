@@ -16,7 +16,7 @@
 
 ## about me
 
-I'm a rising CS sophomore at the University of Cincinnati passionate about building solutions that make a real impact — especially where technology meets something that actually matters to people.
+I'm a CS sophomore at the University of Cincinnati passionate about building solutions that make a real impact — especially where technology meets something that actually matters to people.
 
 Currently an AI Engineering Extern for Pfizer, where I'm building data extraction pipelines, implementing RAG workflows with LLMs and vector embeddings, and evaluating OCR models for pharmaceutical documentation. Outside of code, I'm writing novels, learning Mandarin, choreographing dances, and deep in my latest C-drama obsession.
 
@@ -25,7 +25,7 @@ A few things about how I work:
 - I move across the stack comfortably: from Python data pipelines to React frontends to LabVIEW robotics
 - I've led events for 1,000+ people, written published journalism, and audited $100k+ in financial records; so communication has become second nature to me
 
-Currently **open to Fall 2026 co-ops and internships** in AI/ML, software engineering, or anything at the intersection of tech and real-world problems.
+Currently **open to Summer 2027 co-ops and internships** in AI/ML, software engineering, or anything at the intersection of tech and real-world problems.
 
 ---
 
